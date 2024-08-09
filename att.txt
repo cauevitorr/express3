@@ -1,8 +1,0 @@
-/*************** ROTAS DE FUNCIONÁRIOS *************** */
-/* tabela(id, nome, cargo, data_contartação, salario, email, created_at, update_at)
-/* 1º listar todos os funcionários
-/* 2º cadastrar um funcionário (email único)
-/* 3º listar um funcionário
-/* 4º atualizar um funcionário (email único)
-/* 5º deletar um funcionário 
-*/
